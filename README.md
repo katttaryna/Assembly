@@ -34,4 +34,8 @@ Requirements:
 Count the number of empty lines in a file.
 
 
+code6
 
+Requirements:
+Write a program that runs another program N times (N is a number in the range [1...255]).
+The name of the program to run is passed on the command line.
