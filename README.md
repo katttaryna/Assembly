@@ -28,5 +28,10 @@ We walk through the maze and collect randomly appearing apples, run away from th
 Ending: loss - collision with the enemy, gain - no. Information: account
 
 
+code5
+
+Requirements:
+Count the number of empty lines in a file.
+
 
 
